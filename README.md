@@ -4,7 +4,9 @@
 
 8,760+ hours using VS Code.
 
-Desenvolvedor com interesse em arquitetura de software, programação de baixo nível e desenvolvimento backend. Gosto de entender como as coisas funcionam por trás do código, buscando soluções eficientes, organizadas e de fácil manutenção.
+### About me
+
+Software developer interested in software architecture, low-level programming and backend development. I enjoy understanding how things work behind the code, building efficient, organized and maintainable solutions.
 
 ### Technologies
 
@@ -23,6 +25,19 @@ Desenvolvedor com interesse em arquitetura de software, programação de baixo n
 
 - **Email:** [oliveirarsdemail@gmail.com](mailto:oliveirarsdemail@gmail.com)
 - **Discord:** [olverjs](https://discord.com/users/olverjs)
+
+---
+
+### Português
+
+Desenvolvedor de software com interesse em arquitetura de software, programação de baixo nível e desenvolvimento backend. Gosto de entender como as coisas funcionam por trás do código, buscando criar soluções eficientes, organizadas e de fácil manutenção.
+
+### Foco atual
+
+- Java
+- Spring Boot
+- Desenvolvimento Backend
+- Arquitetura de Software
 
 ---
 
