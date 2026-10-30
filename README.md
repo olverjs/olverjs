@@ -26,8 +26,6 @@ Hoje, divido meu tempo entre o desenvolvimento de baixo nível (C++ e Pawn) e o 
 
 No momento, estou aprofundando meus conhecimentos em **Java e Spring Boot** para o desenvolvimento de sistemas back-end mais estruturados.
 
-* ☁️ **[LostWay Studios](https://discord.gg/KKh7Xfg3sH)**
-
 <div align="center">
   <h3><i>"Falar é fácil. Mostre-me o código."</i></h3>
   <p>— Linus Torvalds</p>
@@ -39,7 +37,7 @@ No momento, estou aprofundando meus conhecimentos em **Java e Spring Boot** para
 
 <p align="left">
   <a href="mailto:oliveirarsdemail@gmail.com" title="E-mail profissional"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://discord.com/users/.olveirajs" title="Meu Discord"><img src="https://skillicons.dev/icons?i=discord" /></a>
+  <a href="https://discord.com/users/olverjs" title="Meu Discord"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 
 <br/>
