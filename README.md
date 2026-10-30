@@ -11,7 +11,7 @@ Software developer interested in software architecture, low-level programming an
 ### Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,lua" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,lua,html,css" />
 </p>
 
 ### Currently focused on
