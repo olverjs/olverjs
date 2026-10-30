@@ -41,6 +41,10 @@ Desenvolvedor de software com interesse em arquitetura de software, programaçã
 
 ---
 
+<br/>
+
 <p align="center">
-  <sub>Building, learning and improving.</sub>
+  <i>"Falar é fácil. Mostre-me o código."</i>
+  <br/>
+  — Linus Torvalds
 </p>
