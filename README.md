@@ -24,7 +24,7 @@ Software developer interested in software architecture, low-level programming an
 ### Contact
 
 - **Email:** [oliveirarsdemail@gmail.com](mailto:oliveirarsdemail@gmail.com)
-- **Discord:** [olverjs](https://discord.com/users/olverjs)
+- **Discord:** [oliveirarsd](https://discord.com/users/oliveirarsd)
 
 ---
 
